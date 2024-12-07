@@ -71,8 +71,10 @@ python textconv.py e input.txt output.ttb
 ```
 ## Project Structure
 
-- `textconv.py` - main program file
-- `old_textconv_by_xttl/` - original C version by xttl
+- `inti_encdec.py` - main program file
+- `textconv.py` - main program file INTI TextConv
+- `old/` - original C version by xttl
+- `old_textconv_by_xttl/` - original C version INTI TextConv by xttl
 
 
 ## Changes from Original Version
